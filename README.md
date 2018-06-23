@@ -2,7 +2,6 @@
 
 > 基于vue的简单地址（省/市/区）选择
 
-[demo](http://jssdk.sinaapp.com/widget/share.php)
 
 ## 安装
 
